@@ -13,7 +13,7 @@ Include the Colby email on the account and what you were doing (signing up, a mi
 
 **Delete your account:** open Menyou → Profile → Account Details → Delete Account. Deletion removes your profile, ratings, and raw events. Aggregate counts that were already totaled do not contain your name.
 
-**Campus dining counts:** during signup you can leave unchecked the box that counts de-identified hall, meal, and dish activity for the campus dining operator. You can change it later under Profile → Account Details. Saying no does not block the app.
+**Anonymized dining data:** creating an account requires agreeing to anonymized, aggregated dining data collection (which hall and meal, which dishes you saw or rated, and whether you checked in). Those totals do not include your name, email, photo, or chat. There is no opt-out toggle under Account Details. If you do not agree, do not create an account. Existing accounts that have not recorded this agreement are asked once on the next launch. You can delete your account at any time as described above.
 
 **Allergies:** Menyou does not decide what is safe to eat. Check the dining hall before you eat.
 
