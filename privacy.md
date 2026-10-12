@@ -11,11 +11,17 @@ Menyou is an independent student-built dining app for the Colby College communit
 
 Account info (name, email), dietary preferences, allergies, taste ratings, dining-hall check-ins, optional profile photo, and technical logs needed to run the app. Menu data is collected from publicly available Colby dining sources (including Nutrislice).
 
-## Campus dining counts
+## Anonymized dining data collection
 
-If you agree during signup, Menyou counts your de-identified dining activity (which hall and meal, which dishes you saw or rated, and whether you checked in) in aggregate statistics we may share with the campus dining operator. Those statistics do not include your name, email, photo, or chat. You can say no and still use Menyou. You can change this later in Profile. Account deletion removes your raw events.
+When you create a Menyou account you agree to anonymized, aggregated dining data collection. Menyou counts de-identified dining activity — which hall and meal, which dishes you saw or rated, and whether you checked in — and may share those totals with the campus dining operator.
 
-We do not sell your personal data. The counts above are totals. They are shared only if you opted in. Leaving the box unchecked, or turning it off later in Profile → Account Details, keeps you out of those totals.
+Those statistics do not include your name, email, photo, chat, password, or push token. They are totals, not a list of who ate where.
+
+There is no in-app opt-out toggle for this collection. If you do not agree, do not create an account. You can delete your account at any time under Profile → Account Details → Delete Account. Deletion removes your profile, ratings, and raw events. Aggregate totals that were already combined have no name attached and may be kept for up to 24 months.
+
+Existing accounts that have not yet recorded this agreement will be asked once, on the next launch, before they continue.
+
+We do not sell your personal data.
 
 ## Friends
 
@@ -39,11 +45,11 @@ Raw product analytics are kept for 180 days, then deleted. Taste ratings stay un
 
 ## Third parties
 
-We use Nutrislice/Colby Dining for menus and Unsplash or similar sources for food images. Meal reminders use on-device notifications. Image lookups may use curated URLs and optional image APIs. Those services have their own terms. If you opt in, de-identified dining counts may be shared with the campus dining operator as described above.
+We use Nutrislice/Colby Dining for menus and Unsplash or similar sources for food images. Meal reminders use on-device notifications. Image lookups may use curated URLs and optional image APIs. Those services have their own terms. De-identified dining totals may be shared with the campus dining operator as described above.
 
 ## Your choices
 
-Update preferences anytime in Profile. The campus-counts choice is under Profile → Account Details. Delete your account under Account Details → Delete Account to permanently remove your data, subject to backups and legal holds. You can ignore friend requests and remove friends anytime.
+Update preferences anytime in Profile. Anonymized dining totals are part of the Terms and Privacy Policy you agree to at signup. There is no in-app opt-out toggle. Delete your account under Account Details → Delete Account to permanently remove your data, subject to backups and legal holds. You can ignore friend requests and remove friends anytime.
 
 ## Contact
 
