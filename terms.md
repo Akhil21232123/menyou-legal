@@ -1,0 +1,94 @@
+---
+title: Terms of Service
+permalink: /terms/
+---
+
+# Terms of Service
+
+Effective and last updated: October 24, 2026
+
+## Agreement
+
+These Terms of Service ("Terms") are a contract between you and Menyou, an independent, student-built dining recommendation app for the Colby College community. By creating an account or using Menyou, including in guest mode, you agree to these Terms and our Privacy Policy. If you do not agree, do not use the app.
+
+Menyou is not owned, operated, or endorsed by Colby College or Colby Dining Services. College dining halls prepare and serve food; Menyou only ranks halls and dishes using public menu data and your preferences.
+
+## Who may use Menyou
+
+Menyou is intended for Colby College students and others in that community who are at least 13 years old. Children under 13 may not use Menyou. You must provide accurate account information and keep your password private. You are responsible for activity on your account.
+
+## What Menyou does, and does not do
+
+Menyou suggests dining halls and dishes based on your taste ratings, dietary preferences, and allergy filters, plus menus published by Colby Dining / Nutrislice. Menu and allergen labels can be incomplete or out of date. Please check the ingredients yourself at the dining hall if you have allergies or restrictions.
+
+Menyou does not:
+
+- prepare, cook, handle, store, or serve food;
+- inspect kitchens, ingredients, or cross-contact practices;
+- give medical, nutritional, or food-safety advice;
+- guarantee that a hall is open, that a dish will be available, or that a Match% will taste the way you expect.
+
+A higher Match% means the algorithm thinks you may like that hall more. It is not a safety rating, health grade, or promise about allergens.
+
+Food photos in the app are for illustration only. They come from third-party image sources and may not show the actual dish served at the dining hall.
+
+## Allergies, diet, and your responsibility
+
+Allergy and diet filters hide dishes that look unsafe based on the names and tags we have. That data can be wrong, incomplete, delayed, or missing cross-contact information. An "allergen" alert is a warning, not a lab test. A "restricted" label with the prohibition mark shows a diet conflict; it does not guarantee the rest of the menu is safe.
+
+If you have a food allergy, intolerance, religious dietary rule, or medical condition, you must verify ingredients with Colby Dining staff before you eat. You use suggestions at your own risk. Menyou is not a substitute for reading the official menu or asking the dining hall.
+
+## Friends and chat
+
+Friends on Menyou is optional, and you choose who to add. We may tell you when a friend has the same top Match% hall for the meal you are viewing, so you can catch up if you want to. That is a suggestion, not a plan, a booking, or an instruction to eat together.
+
+Do not use Friends or chat to harass, threaten, or abuse anyone, or to share unlawful or objectionable content. Menyou has zero tolerance for objectionable content and abusive users. You can report or block any user in the app. We review reports within 24 hours, remove objectionable content, and remove the accounts that posted it.
+
+## No warranty
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE."
+
+To the fullest extent allowed by law, Menyou disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that menus, scores, hours, or allergen flags are accurate, complete, or current, or that the app will be error-free or uninterrupted.
+
+## Limitation of liability
+
+To the fullest extent allowed by applicable law, Menyou and its operators, contributors, and affiliates are not liable for any indirect, incidental, special, consequential, punitive, or exemplary damages, or for any loss of data, goodwill, or other intangible loss.
+
+Without limiting the above, we are not liable for illness, allergic or anaphylactic reaction, injury, death, property damage, or any other harm arising from food you eat at a dining hall Menyou suggested, from relying on Match%, hours, or allergen labels, or from menu or data errors.
+
+If a court finds that we are liable to you despite these Terms, our total liability for all claims is limited to the greater of (a) the amount you paid us for the app in the 12 months before the claim (currently USD 0, because Menyou is free) or (b) USD 10.
+
+Some places do not allow certain limitations. In those places, our liability is limited to the maximum extent permitted by law. Nothing in these Terms limits liability that cannot legally be limited, including liability for fraud or for death or personal injury caused by our own gross negligence where such a limit is forbidden.
+
+## Dining halls are not our responsibility
+
+You agree that Menyou is not responsible for the food, service, or conditions at Colby dining halls. Any claims about them are between you and the college, its dining provider, or hall staff, even if you visited a hall because of a Menyou suggestion or information shown in the app.
+
+## Acceptable use
+
+Do not misuse the app: no scraping our API beyond normal use, no attempting to access other accounts, no uploading unlawful content, and no using Menyou to harm others. We may suspend or delete accounts that violate these Terms.
+
+## Account deletion
+
+You may delete your account in Profile → Account Details → Delete Account. Deletion removes your profile and preference data from our systems as described in the Privacy Policy, including removal from backups within 30 days.
+
+## Changes to or end of the service
+
+We may change, suspend, or discontinue Menyou, in whole or in part, at any time. If we permanently discontinue Menyou, we will delete personal data within 6 months, as described in the Privacy Policy.
+
+## Transfer
+
+We may transfer these Terms and the app to a successor, such as a company formed to operate Menyou, or as part of a merger, acquisition, or sale. These Terms will continue to apply between you and that successor.
+
+## Changes to these Terms
+
+We may update these Terms. When we do, the "Last updated" date will change. Continued use after an update means you accept the new Terms. Material changes will be announced in the app.
+
+## Governing law
+
+These Terms are governed by the laws of the State of Maine, United States, without regard to conflict-of-law rules. Courts located in Maine have exclusive jurisdiction, except that we may seek injunctive relief anywhere if needed to protect the service.
+
+## Contact
+
+Questions about these Terms: menyou.verify@gmail.com
+
