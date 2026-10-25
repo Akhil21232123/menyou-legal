@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Terms of Service
 
-Effective and last updated: October 24, 2026
+Effective and last updated: October 25, 2026
 
 ## Agreement
 
@@ -42,7 +42,7 @@ If you have a food allergy, intolerance, religious dietary rule, or medical cond
 
 Friends on Menyou is optional, and you choose who to add. We may tell you when a friend has the same top Match% hall for the meal you are viewing, so you can catch up if you want to. That is a suggestion, not a plan, a booking, or an instruction to eat together.
 
-Do not use Friends or chat to harass, threaten, or abuse anyone, or to share unlawful or objectionable content. Menyou has zero tolerance for objectionable content and abusive users. You can report or block any user in the app. We review reports within 24 hours, remove objectionable content, and remove the accounts that posted it.
+Do not use Friends or chat to harass, threaten, or abuse anyone, or to share unlawful or objectionable content. Menyou has zero tolerance for objectionable content and abusive users. You can report or block any user in the app. We review reports promptly, remove objectionable content, and remove the accounts that posted it.
 
 ## No warranty
 
@@ -70,7 +70,7 @@ Do not misuse the app: no scraping our API beyond normal use, no attempting to a
 
 ## Account deletion
 
-You may delete your account in Profile → Account Details → Delete Account. Deletion removes your profile and preference data from our systems as described in the Privacy Policy, including removal from backups within 30 days.
+You may delete your account in Profile → Account Details → Delete Account. Deletion removes your profile, preferences, ratings, activity, friend links, and messages from our active systems as described in the Privacy Policy. Copies in backups are removed on a rolling basis.
 
 ## Changes to or end of the service
 
