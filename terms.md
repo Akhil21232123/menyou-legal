@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Terms of Service
 
-Effective and last updated: October 25, 2026
+Effective and last updated: October 24, 2026
 
 ## Agreement
 
@@ -15,7 +15,7 @@ Menyou is not owned, operated, or endorsed by Colby College or Colby Dining Serv
 
 ## Who may use Menyou
 
-Menyou is intended for Colby College students and others in that community who are at least 13 years old. Children under 13 may not use Menyou. You must provide accurate account information and keep your password private. You are responsible for activity on your account.
+Menyou is intended for Colby College students and others in that community who are at least 13 years old. By creating an account, you confirm that you are at least 13 years old. Children under 13 may not use Menyou. You must provide accurate account information and keep your password private. You are responsible for activity on your account.
 
 ## What Menyou does, and does not do
 
@@ -42,7 +42,7 @@ If you have a food allergy, intolerance, religious dietary rule, or medical cond
 
 Friends on Menyou is optional, and you choose who to add. We may tell you when a friend has the same top Match% hall for the meal you are viewing, so you can catch up if you want to. That is a suggestion, not a plan, a booking, or an instruction to eat together.
 
-Do not use Friends or chat to harass, threaten, or abuse anyone, or to share unlawful or objectionable content. Menyou has zero tolerance for objectionable content and abusive users. You can report or block any user in the app. We review reports promptly, remove objectionable content, and remove the accounts that posted it.
+Do not use Friends or chat to harass, threaten, or abuse anyone, or to share unlawful or objectionable content. Menyou has zero tolerance for objectionable content and abusive users. You can report or block any user in the app. We review reports promptly and remove objectionable content and the accounts that posted it.
 
 ## No warranty
 
@@ -58,9 +58,7 @@ Without limiting the above, we are not liable for illness, allergic or anaphylac
 
 If a court finds that we are liable to you despite these Terms, our total liability for all claims is limited to the greater of (a) the amount you paid us for the app in the 12 months before the claim (currently USD 0, because Menyou is free) or (b) USD 10.
 
-Some places do not allow certain limitations. In those places, our liability is limited to the maximum extent permitted by law. Nothing in these Terms limits liability that cannot legally be limited, including liability for fraud or for death or personal injury caused by our own gross negligence where such a limit is forbidden.
-
-## Dining halls are not our responsibility
+Some places do not allow certain limitations. In those places, our liability is limited to the maximum extent permitted by law. Nothing in these Terms limits liability that cannot legally be limited, including liability for fraud or for death or personal injury caused by our own gross negligence where such a limit is forbidden. Dining halls are not our responsibility
 
 You agree that Menyou is not responsible for the food, service, or conditions at Colby dining halls. Any claims about them are between you and the college, its dining provider, or hall staff, even if you visited a hall because of a Menyou suggestion or information shown in the app.
 
@@ -70,7 +68,7 @@ Do not misuse the app: no scraping our API beyond normal use, no attempting to a
 
 ## Account deletion
 
-You may delete your account in Profile → Account Details → Delete Account. Deletion removes your profile, preferences, ratings, activity, friend links, and messages from our active systems as described in the Privacy Policy. Copies in backups are removed on a rolling basis.
+You may delete your account in Profile → Account Details → Delete Account. Deletion removes your profile and preference data from our systems as described in the Privacy Policy, including removal from backups within 30 days.
 
 ## Changes to or end of the service
 
@@ -91,4 +89,3 @@ These Terms are governed by the laws of the State of Maine, United States, witho
 ## Contact
 
 Questions about these Terms: menyou.verify@gmail.com
-
